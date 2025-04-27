@@ -115,11 +115,11 @@ plt.legend(bbox_to_anchor=(1.05,1), loc='upper left')
 plt.tight_layout()
 plt.show()
 ```
+![Jumlah Erupsi berdasarkan Tipe Gunung](https://github.com/user-attachments/assets/a9baee91-b7dc-49d5-8d38-f4081b9bebda)
 
 ### Catatan
 - Data mengandung missing value.
 - Beberapa kolom memiliki data tidak lengkap
   
 ---
-
-> Dibuat sebagai latihan menganalisis data bidang geologi.
+> Dibuat sebagai proyek latihan menganalisis data dalam bidang geologi.
