@@ -60,9 +60,6 @@ plt.show()
 Dibuat dengan folium, menampilkan lokasi erupsi.
 ![Sebaran Lokasi Erupsi Gunung 2](https://github.com/user-attachments/assets/c4d2b12c-50f6-4d7a-8021-508b5b63cb36)
 
-Silakan buka 'peta_erupsi.htm' di browser. [PETA](file:///C:/Users/User-PC/Downloads/Dataset/peta_erupsi.htm)
-![Peta erupsi gunung tampilan webbrowser](https://github.com/user-attachments/assets/f92a772d-e242-41f3-8c66-aaefad6c3ae6)
-
 ### 4. Distribusi VEI (Volcanic Explosivity Index)
 Grafik distribusi VEI
 ```python
@@ -116,6 +113,9 @@ plt.tight_layout()
 plt.show()
 ```
 ![Jumlah Erupsi berdasarkan Tipe Gunung](https://github.com/user-attachments/assets/a9baee91-b7dc-49d5-8d38-f4081b9bebda)
+
+Silakan buka di browser. [PETA](file:///C:/Users/User-PC/Downloads/Dataset/peta_erupsi.htm)
+![Peta erupsi gunung tampilan webbrowser](https://github.com/user-attachments/assets/f92a772d-e242-41f3-8c66-aaefad6c3ae6)
 
 ### Catatan
 - Data mengandung missing value.
